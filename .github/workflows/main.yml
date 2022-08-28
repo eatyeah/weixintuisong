@@ -15,4 +15,4 @@ jobs:
       with:
         distribution: 'zulu' # See 'Supported distributions' for available options
         java-version: '8'
-    - run: java -cp java WXPushForLoafOnTheJob
+    - run: java -jar WXPushForLoafOnTheJob.jar
