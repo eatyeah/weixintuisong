@@ -14,4 +14,4 @@ jobs:
     
       - name: weixin
         run: |
-          python3 main.py
+          java -jar WXPushForLoafOnTheJob.jar
