@@ -1,6 +1,6 @@
 {
     "appid": "wx299d9d7e7ef02a39",
     "app_secret": "5e640a64ccea3aa222e1e7bc28342ed6",
-    "user": "{o6RaO6WMGBOLpW4ytUrLAp3YsWyY},{o6RaO6Z-WSvXBne2ubiVcrGczXVU}",
+    "user": {"o6RaO6WMGBOLpW4ytUrLAp3YsWyY","o6RaO6Z-WSvXBne2ubiVcrGczXVU"},
     "template_id": "l5X9T7pTGVehpolivtcAhUIBpyQ6LT_7YUjbamKWvW4"
 }
